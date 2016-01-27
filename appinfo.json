@@ -1,0 +1,36 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "mel95",
+    "longName": "FEZ",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/tetris_grid.png",
+                "name": "IMAGE_BACKGROUND",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "characterRegex": "[a-zA-Z0-9 ]",
+                "file": "fonts/zu_font.ttf",
+                "name": "FONT_ZU_47",
+                "targetPlatforms": null,
+                "type": "font"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "FEZ",
+    "targetPlatforms": [
+        "aplite"
+    ],
+    "uuid": "5e6a60b5-7d96-463d-a54e-091f9a2a36c2",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
